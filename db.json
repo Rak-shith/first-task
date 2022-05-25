@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "password": "rtywywe",
+      "address": "India",
+      "phone": "954786523",
+      "role": "GUEST",
+      "id": 35
+    },
+    {
+      "name": "Rakshith Kotian",
+      "email": "kotian412@gmail.com",
+      "password": "grdgsr",
+      "address": "Karnataka ",
+      "phone": "9535147470",
+      "role": "GUEST",
+      "id": 37
+    },
+    {
+      "name": "Thomas",
+      "email": "thomas@gmail.com",
+      "password": "ghfjdfdf",
+      "address": "singapur",
+      "phone": "987456321",
+      "role": "ADMIN",
+      "id": 38
+    },
+    {
+      "name": "Roy",
+      "email": "roy@gmail.com",
+      "password": "541235",
+      "address": "America",
+      "phone": "7546215365",
+      "role": "GUEST",
+      "id": 39
+    },
+    {
+      "name": "Rakshith ",
+      "email": "kotian412@gmail.com",
+      "password": "rgegggr",
+      "address": "Karnataka",
+      "phone": "09535147470",
+      "role": "GUEST",
+      "id": 40
+    }
+  ]
+}
